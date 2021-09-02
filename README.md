@@ -1,6 +1,6 @@
 # xplane_cockpit_toliss_a321
 
-These are instructions to a some buttons to a simple A321 Xplane cokpit. This build assuemes that you already own:
+These are instructions to build a simple A321 Xplane cokpit. This build assuemes that you already own:
 
 o Thrustmaster TCA Pack Airbus Edition: https://shop.thrustmaster.com/en_gb/tca-officer-pack-airbus-edition.html
 o Saitek Multi Panel: https://www.logitechg.com/en-gb/products/flight/flight-simulator-autopilot-multipanel.945-000009.html
